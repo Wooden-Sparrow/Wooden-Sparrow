@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any project that will take beginner programmers with next to 0 experience in the field
 - 📫 How to reach me: Just don't
+I have nearl no idea how this website works.
 
 <!---
 Wooden-Sparrow/Wooden-Sparrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
